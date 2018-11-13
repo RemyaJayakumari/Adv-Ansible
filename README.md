@@ -1,3 +1,3 @@
 # bad-ansible
-Bad Ansible is a deliberately poorly written playbook and Ansible Environment for training purposes
+Good Ansible is the updated playbook as part of  Ansible Environment for training purposes
 # Adv-Ansible
