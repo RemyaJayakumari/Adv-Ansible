@@ -1,0 +1,3 @@
+---
+# vars file for roles/haproxy
+haproxy_srv: haproxy
